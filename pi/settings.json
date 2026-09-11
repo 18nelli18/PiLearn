@@ -1,0 +1,9 @@
+{
+  "enableSkillCommands": true,
+  "markdown": {
+    "mermaid": "streaming"
+  },
+  "terminal": {
+    "showImages": true
+  }
+}

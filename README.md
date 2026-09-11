@@ -9,6 +9,12 @@ Implémentation directe du workflow en 5 étapes. Tout se passe en français.
 ## Démarrer
 
 ```bash
+git clone https://github.com/18nelli18/PiLearn.git
+```
+```bash
+cd PiLearn && mv -r pi .pi
+```
+```bash
 tmux new -A -s pi 'pi'
 ```
 
